@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+}
+
+div {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+button {
+  margin-left: 5px;
+}
+
+#remove {
+  background-color: rgb(207, 58, 58);
+  border-radius: 10px;
+}
